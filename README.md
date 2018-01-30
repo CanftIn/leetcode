@@ -12,6 +12,7 @@ about list operator:
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems) | [C++](./25_Reverse_Nodes_in_k-Group/25_Reverse_Nodes_in_k-Group/25_Reverse_Nodes_in_k-Group.cpp)|Hard|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems) | [C++](./26_Remove_Duplicates_from_Sorted_Array.cpp)|Easy|
 |27|[Remove Element](https://leetcode.com/problems) | [C++](./27_Remove_Element.cpp)|Easy|
+|28|[!!!!!!not finish!!!!!!](https://leetcode.com/problems) | [C++](./28.cpp)|xxxx|
 |34|[Search for a Range  ](https://leetcode.com/problems) | [C++](./34_Search_for_a_Range/34_Search_for_a_Range/34_Search_for_a_Range.cpp)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problem) | [C++](./35_Search_Insert_Position/35_Search_Insert_Position/35_Search_Insert_Position.cpp)|Easy|
 |48|[Rotate Image](https://leetcode.com/problems) | [C++](./48_Rotate_Image/48_Rotate_Image/48_Rotate_Image.cpp)|Medium|
@@ -20,3 +21,4 @@ about list operator:
 |69|[Sqrt(x)](https://leetcode.com/problems) | [C++](./69_Sqrt(x)/69_Sqrt(x)/69_Sqrt(x).cpp)|Easy|
 |141|[Linked List Cycle](https://leetcode.com/problems) | [C++](./141_Linked_List_Cycle/141_Linked_List_Cycle/141_Linked_List_Cycle.cpp)|Easy|
 |155|[Min Stack](https://leetcode.com/problems) | [C++](./155_Min_Stack/155_Min_Stack/155_Min_Stack.cpp)|Easy|
+|606|[Construct String from Binary Tree](https://leetcode.com/problems) | [C++](./606_Construct_String_from_Binary_Tree.cpp)|Easy|
