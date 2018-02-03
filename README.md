@@ -18,7 +18,8 @@ about list operator:
 |48|[Rotate Image](https://leetcode.com/problems) | [C++](./48_Rotate_Image/48_Rotate_Image/48_Rotate_Image.cpp)|Medium|
 |55|[Jump Game](https://leetcode.com/problems) | [C++](./55_Jump_Game/55_Jump_Game/55_Jump_Game.cpp)|Medium|
 |61|[Rotate List](https://leetcode.com/problems) | [C++](./61_Rotate_List/61_Rotate_List/61_Rotate_List.cpp)|Medium|
-|69|[Sqrt(x)](https://leetcode.com/problems) | [C++](./69_Sqrt(x)/69_Sqrt(x)/69_Sqrt(x).cpp)|Easy|
+|80|[emove Duplicates from Sorted Array II](https://leetcode.com/problems) | [C++](./80_Remove_Duplicates_from_Sorted_Array_II/80_Remove_Duplicates_from_Sorted_Array_II/80_Remove_Duplicates_from_Sorted_Array_II.cpp)|Easy|
+|61|[Rotate List](https://leetcode.com/problems) | [C++](./61_Rotate_List/61_Rotate_List/61_Rotate_List.cpp)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems) | [C++](./141_Linked_List_Cycle/141_Linked_List_Cycle/141_Linked_List_Cycle.cpp)|Easy|
 |155|[Min Stack](https://leetcode.com/problems) | [C++](./155_Min_Stack/155_Min_Stack/155_Min_Stack.cpp)|Easy|
 |606|[Construct String from Binary Tree](https://leetcode.com/problems) | [C++](./606_Construct_String_from_Binary_Tree.cpp)|Easy|
