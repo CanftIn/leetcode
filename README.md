@@ -15,6 +15,7 @@ about list operator:
 |28|[!!!!!!not finish!!!!!!](https://leetcode.com/problems) | [C++](./28.cpp)|xxxx|
 |34|[Search for a Range  ](https://leetcode.com/problems) | [C++](./34_Search_for_a_Range/34_Search_for_a_Range/34_Search_for_a_Range.cpp)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problem) | [C++](./35_Search_Insert_Position/35_Search_Insert_Position/35_Search_Insert_Position.cpp)|Easy|
+|38|[Count and Say](https://leetcode.com/problem) | [C++](./38_Count_and_Say/38_Count_and_Say/38_Count_and_Say.cpp)|Easy|
 |48|[Rotate Image](https://leetcode.com/problems) | [C++](./48_Rotate_Image/48_Rotate_Image/48_Rotate_Image.cpp)|Medium|
 |55|[Jump Game](https://leetcode.com/problems) | [C++](./55_Jump_Game/55_Jump_Game/55_Jump_Game.cpp)|Medium|
 |61|[Rotate List](https://leetcode.com/problems) | [C++](./61_Rotate_List/61_Rotate_List/61_Rotate_List.cpp)|Medium|
