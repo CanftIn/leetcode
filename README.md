@@ -9,6 +9,7 @@ about list operator:
 ### Linked List
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [c++](./21_Merge_Two_Sorted_Lists.cpp) |Easy|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [c++](./83_Remove_Duplicates_from_Sorted_List.cpp) |Easy|
 |141|[Linked List Cycle](https://leetcode.com/problems) | [C++](./141_Linked_List_Cycle/141_Linked_List_Cycle/141_Linked_List_Cycle.cpp)|Easy|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [c++](./237_Delete_Node_in_a_Linked_List.cpp) |Easy|
@@ -17,7 +18,7 @@ about list operator:
 ### All
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Two Sum](https://leetcode.com/problems) | [C++](./1_Two_Sum)|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](./1_Two_Sum)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems) | [C++](./13_Roman_to_Integer/13_Roman_to_Integer/13_Roman_to_Integer.cpp)|Easy|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems) | [C++](./24_Swap_Nodes_in_Pairs/24_Swap_Nodes_in_Pairs/24_Swap_Nodes_in_Pairs.cpp)|Medium|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems) | [C++](./25_Reverse_Nodes_in_k-Group/25_Reverse_Nodes_in_k-Group/25_Reverse_Nodes_in_k-Group.cpp)|Hard|
