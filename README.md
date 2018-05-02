@@ -34,6 +34,7 @@ about list operator:
 |55|[Jump Game](https://leetcode.com/problems) | [C++](./55_Jump_Game/55_Jump_Game/55_Jump_Game.cpp)|Medium|
 |61|[Rotate List](https://leetcode.com/problems) | [C++](./61_Rotate_List/61_Rotate_List/61_Rotate_List.cpp)|Medium|
 |80|[remove Duplicates from Sorted Array II](https://leetcode.com/problems) | [C++](./80_Remove_Duplicates_from_Sorted_Array_II/80_Remove_Duplicates_from_Sorted_Array_II/80_Remove_Duplicates_from_Sorted_Array_II.cpp)|Easy|
+|82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | [c++](./82_Remove_Duplicates_from_Sorted_List_II/82_Remove_Duplicates_from_Sorted_List_II.cpp),[Java](./82_Remove_Duplicates_from_Sorted_List_II/82_Remove_Duplicates_from_Sorted_List_II.java) |Easy|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [c++](./83_Remove_Duplicates_from_Sorted_List.cpp) |Easy|
 |141|[Linked List Cycle](https://leetcode.com/problems) | [C++](./141_Linked_List_Cycle/141_Linked_List_Cycle/141_Linked_List_Cycle.cpp)|Easy|
 |155|[Min Stack](https://leetcode.com/problems) | [C++](./155_Min_Stack/155_Min_Stack/155_Min_Stack.cpp)|Easy|
