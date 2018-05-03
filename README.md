@@ -21,6 +21,8 @@ about list operator:
 
 
 ### BFS && DFS
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
 |339|[Nested List Weight Sum](https://leetcode.com/problems) | [c++](./339_Nested_List_Weight_Sum.cpp) |Easy|
 
 
