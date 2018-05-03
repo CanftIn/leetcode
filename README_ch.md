@@ -1,16 +1,16 @@
 # leetcode
 
-[中文](./README_ch.md)
+[English](./README.md)
 
-These are some answers I did.
+这是我做LeetCode时的一些答案。
 
-Suggest you read code using [octotree](https://github.com/buunguyen/octotree)
+建议使用[octotree](https://github.com/buunguyen/octotree)这个工具来阅读源码
 
-about list operator:
+测试时经常要打印list，用这个小工具避免重复写
 [ListPrintHelper](./ListPrintHelper/ListPrintHelper/ListPrintHelper.cpp)
 
-### Linked List
-| # | Title | Solution | Difficulty |
+### 链表
+| # | 题目 | 答案 | 难度 |
 |---| ----- | -------- | ---------- |
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [C++](./2_Add_Two_Numbers.cpp)|Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [C++](./19_Remove_Nth_Node_From_End_of_List/19_Remove_Nth_Node_From_End_of_List.cpp),[Java](./19_Remove_Nth_Node_From_End_of_List/19_Remove_Nth_Node_From_End_of_List.java)|Medium|
@@ -23,14 +23,14 @@ about list operator:
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [c++](./237_Delete_Node_in_a_Linked_List.cpp) |Easy|
 
 
-### BFS && DFS
-| # | Title | Solution | Difficulty |
+### 深搜 && 广搜
+| # | 题目 | 答案 | 难度 |
 |---| ----- | -------- | ---------- |
 |339|[Nested List Weight Sum](https://leetcode.com/problems) | [c++](./339_Nested_List_Weight_Sum.cpp) |Easy|
 
 
-### All
-| # | Title | Solution | Difficulty |
+### 汇总
+| # | 题目 | 答案 | 难度 |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](./1_Two_Sum)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [C++](./2_Add_Two_Numbers.cpp)|Medium|
