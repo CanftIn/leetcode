@@ -22,7 +22,8 @@ about list operator:
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [c++](./83_Remove_Duplicates_from_Sorted_List.cpp) |Easy|
 |86|[Partition List](https://leetcode.com/problems/partition-list/description/) | [C++](./86_Partition_List.cpp)|Medium|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) | [C++](./92_Reverse_Linked_List_II.cpp)|Medium|
-|141|[Linked List Cycle](https://leetcode.com/problems) | [C++](./141_Linked_List_Cycle/141_Linked_List_Cycle/141_Linked_List_Cycle.cpp)|Easy|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [C++](./141_Linked_List_Cycle/141_Linked_List_Cycle/141_Linked_List_Cycle.cpp)|Easy|
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [C++](./142_Linked_List_Cycle_II.cpp)|Medium|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/) | [c++](./147_Insertion_Sort_List/147_Insertion_Sort_List.cpp),[Java](./147_Insertion_Sort_List/147_Insertion_Sort_List.java) |Medium|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [c++](./206_Reverse_Linked_List.cpp) |Easy|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [c++](./237_Delete_Node_in_a_Linked_List.cpp) |Easy|
@@ -68,6 +69,7 @@ about list operator:
 |86|[Partition List](https://leetcode.com/problems/partition-list/description/) | [C++](./86_Partition_List.cpp)|Medium|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) | [C++](./92_Reverse_Linked_List_II.cpp)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems) | [C++](./141_Linked_List_Cycle/141_Linked_List_Cycle/141_Linked_List_Cycle.cpp)|Easy|
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [C++](./142_Linked_List_Cycle_II.cpp)|Medium|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/) | [c++](./147_Insertion_Sort_List/147_Insertion_Sort_List.cpp),[Java](./147_Insertion_Sort_List/147_Insertion_Sort_List.java) |Medium|
 |155|[Min Stack](https://leetcode.com/problems) | [C++](./155_Min_Stack/155_Min_Stack/155_Min_Stack.cpp)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [c++](./206_Reverse_Linked_List.cpp) |Easy|
