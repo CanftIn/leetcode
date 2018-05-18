@@ -15,6 +15,9 @@ about list operator:
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [C++](./2_Add_Two_Numbers.cpp)|Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [C++](./19_Remove_Nth_Node_From_End_of_List/19_Remove_Nth_Node_From_End_of_List.cpp),[Java](./19_Remove_Nth_Node_From_End_of_List/19_Remove_Nth_Node_From_End_of_List.java)|Medium|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [c++](./21_Merge_Two_Sorted_Lists.cpp) |Easy|
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems) | [C++](./24_Swap_Nodes_in_Pairs/24_Swap_Nodes_in_Pairs/24_Swap_Nodes_in_Pairs.cpp)|Medium|
+|25|[Reverse Nodes in k-Group](https://leetcode.com/problems) | [C++](./25_Reverse_Nodes_in_k-Group/25_Reverse_Nodes_in_k-Group/25_Reverse_Nodes_in_k-Group.cpp)|Hard|
+|61|[Rotate List](https://leetcode.com/problems) | [C++](./61_Rotate_List/61_Rotate_List/61_Rotate_List.cpp)|Medium|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | [c++](./82_Remove_Duplicates_from_Sorted_List_II/82_Remove_Duplicates_from_Sorted_List_II.cpp),[Java](./82_Remove_Duplicates_from_Sorted_List_II/82_Remove_Duplicates_from_Sorted_List_II.java) |Easy|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [c++](./83_Remove_Duplicates_from_Sorted_List.cpp) |Easy|
 |86|[Partition List](https://leetcode.com/problems/partition-list/description/) | [C++](./86_Partition_List.cpp)|Medium|
