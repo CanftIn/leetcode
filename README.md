@@ -17,6 +17,7 @@ about list operator:
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [c++](./21_Merge_Two_Sorted_Lists.cpp) |Easy|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | [c++](./82_Remove_Duplicates_from_Sorted_List_II/82_Remove_Duplicates_from_Sorted_List_II.cpp),[Java](./82_Remove_Duplicates_from_Sorted_List_II/82_Remove_Duplicates_from_Sorted_List_II.java) |Easy|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [c++](./83_Remove_Duplicates_from_Sorted_List.cpp) |Easy|
+|86|[Partition List](https://leetcode.com/problems/partition-list/description/) | [C++](./86_Partition_List.cpp)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems) | [C++](./141_Linked_List_Cycle/141_Linked_List_Cycle/141_Linked_List_Cycle.cpp)|Easy|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/) | [c++](./147_Insertion_Sort_List/147_Insertion_Sort_List.cpp),[Java](./147_Insertion_Sort_List/147_Insertion_Sort_List.java) |Medium|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [c++](./206_Reverse_Linked_List.cpp) |Easy|
@@ -59,6 +60,7 @@ about list operator:
 |80|[remove Duplicates from Sorted Array II](https://leetcode.com/problems) | [C++](./80_Remove_Duplicates_from_Sorted_Array_II/80_Remove_Duplicates_from_Sorted_Array_II/80_Remove_Duplicates_from_Sorted_Array_II.cpp)|Easy|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | [c++](./82_Remove_Duplicates_from_Sorted_List_II/82_Remove_Duplicates_from_Sorted_List_II.cpp),[Java](./82_Remove_Duplicates_from_Sorted_List_II/82_Remove_Duplicates_from_Sorted_List_II.java) |Easy|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [c++](./83_Remove_Duplicates_from_Sorted_List.cpp) |Easy|
+|86|[Partition List](https://leetcode.com/problems/partition-list/description/) | [C++](./86_Partition_List.cpp)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems) | [C++](./141_Linked_List_Cycle/141_Linked_List_Cycle/141_Linked_List_Cycle.cpp)|Easy|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/) | [c++](./147_Insertion_Sort_List/147_Insertion_Sort_List.cpp),[Java](./147_Insertion_Sort_List/147_Insertion_Sort_List.java) |Medium|
 |155|[Min Stack](https://leetcode.com/problems) | [C++](./155_Min_Stack/155_Min_Stack/155_Min_Stack.cpp)|Easy|
