@@ -61,6 +61,7 @@ about list operator:
 |---| ----- | -------- | ---------- |
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [C++](./94_Binary_Tree_Inorder_Traversal.cpp)|Medium|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [C++](./96_Unique_Binary_Search_Trees.cpp)|Medium|
+|100|[Same Tree](https://leetcode.com/problems/same-tree/description/) | [c++](./100_Same_Tree.cpp) |Easy|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [C++](./144_Binary_Tree_Preorder_Traversal.cpp)|Medium|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [C++](./145_Binary_Tree_Postorder_Traversal.cpp)|Medium|
 
@@ -96,6 +97,7 @@ about list operator:
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) | [C++](./92_Reverse_Linked_List_II.cpp)|Medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [C++](./94_Binary_Tree_Inorder_Traversal.cpp)|Medium|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [C++](./96_Unique_Binary_Search_Trees.cpp)|Medium|
+|100|[Same Tree](https://leetcode.com/problems/same-tree/description/) | [c++](./100_Same_Tree.cpp) |Easy|
 |141|[Linked List Cycle](https://leetcode.com/problems) | [C++](./141_Linked_List_Cycle/141_Linked_List_Cycle/141_Linked_List_Cycle.cpp)|Easy|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [C++](./142_Linked_List_Cycle_II.cpp)|Medium|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/description/) | [C++](./143_Reorder_List.cpp)|Medium|
