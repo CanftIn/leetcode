@@ -54,6 +54,10 @@ about list operator:
 |339|[Nested List Weight Sum](https://leetcode.com/problems) | [c++](./339_Nested_List_Weight_Sum.cpp) |Easy|
 
 
+### Tree
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [C++](./94_Binary_Tree_Inorder_Traversal.cpp)|Medium|
+
+
 ### All
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
