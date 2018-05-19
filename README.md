@@ -60,7 +60,7 @@ about list operator:
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [C++](./94_Binary_Tree_Inorder_Traversal.cpp)|Medium|
-
+|96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [C++](./96_Unique_Binary_Search_Trees.cpp)|Medium|
 
 ### All
 | # | Title | Solution | Difficulty |
@@ -91,6 +91,8 @@ about list operator:
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [c++](./83_Remove_Duplicates_from_Sorted_List.cpp) |Easy|
 |86|[Partition List](https://leetcode.com/problems/partition-list/description/) | [C++](./86_Partition_List.cpp)|Medium|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) | [C++](./92_Reverse_Linked_List_II.cpp)|Medium|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [C++](./94_Binary_Tree_Inorder_Traversal.cpp)|Medium|
+|96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [C++](./96_Unique_Binary_Search_Trees.cpp)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems) | [C++](./141_Linked_List_Cycle/141_Linked_List_Cycle/141_Linked_List_Cycle.cpp)|Easy|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [C++](./142_Linked_List_Cycle_II.cpp)|Medium|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/description/) | [C++](./143_Reorder_List.cpp)|Medium|
