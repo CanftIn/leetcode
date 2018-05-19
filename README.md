@@ -40,8 +40,14 @@ about list operator:
 |27|[Remove Element](https://leetcode.com/problems) | [C++](./27_Remove_Element.cpp)|Easy|
 |31|[Next Permutation](https://leetcode.com/problems/add-two-numbers/description/) | [C++](./31_Next_Permutation.cpp)|Medium|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [C++](./33_Search_in_Rotated_Sorted_Array.cpp)|Medium|
-|34|[Search for a Range  ](https://leetcode.com/problems) | [C++](./34_Search_for_a_Range/34_Search_for_a_Range/34_Search_for_a_Range.cpp)|Medium|
+|34|[Search for a Range](https://leetcode.com/problems) | [C++](./34_Search_for_a_Range/34_Search_for_a_Range/34_Search_for_a_Range.cpp)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problem) | [C++](./35_Search_Insert_Position/35_Search_Insert_Position/35_Search_Insert_Position.cpp)|Easy|
+
+
+### String
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|14|[Longest Common Prefix](https://leetcode.com/problems/two-sum/description/) | [C++](./14_Longest_Common_Prefix.cpp)|Easy|
 
 
 ### stack
@@ -76,6 +82,7 @@ about list operator:
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [C++](./9_Palindrome_Number.cpp)|Easy|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [C++](./11_Container_With_Most_Water.cpp)|Medium|
 |13|[Roman to Integer](https://leetcode.com/problems) | [C++](./13_Roman_to_Integer/13_Roman_to_Integer/13_Roman_to_Integer.cpp)|Easy|
+|14|[Longest Common Prefix](https://leetcode.com/problems/two-sum/description/) | [C++](./14_Longest_Common_Prefix.cpp)|Easy|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [C++](./19_Remove_Nth_Node_From_End_of_List/19_Remove_Nth_Node_From_End_of_List.cpp),[Java](./19_Remove_Nth_Node_From_End_of_List/19_Remove_Nth_Node_From_End_of_List.java)|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [c++](./20_Valid_Parentheses.cpp) |Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [c++](./21_Merge_Two_Sorted_Lists.cpp) |Easy|
