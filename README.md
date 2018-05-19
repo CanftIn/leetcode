@@ -32,7 +32,13 @@ about list operator:
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [c++](./237_Delete_Node_in_a_Linked_List.cpp) |Easy|
 
 ### Array
+|1|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](./1_Two_Sum)|Easy|
+|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [C++](./11_Container_With_Most_Water.cpp)|Medium|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems) | [C++](./26_Remove_Duplicates_from_Sorted_Array.cpp)|Easy|
+|27|[Remove Element](https://leetcode.com/problems) | [C++](./27_Remove_Element.cpp)|Easy|
 |31|[Next Permutation](https://leetcode.com/problems/add-two-numbers/description/) | [C++](./31_Next_Permutation.cpp)|Medium|
+|34|[Search for a Range  ](https://leetcode.com/problems) | [C++](./34_Search_for_a_Range/34_Search_for_a_Range/34_Search_for_a_Range.cpp)|Medium|
+|35|[Search Insert Position](https://leetcode.com/problem) | [C++](./35_Search_Insert_Position/35_Search_Insert_Position/35_Search_Insert_Position.cpp)|Easy|
 
 
 ### stack
