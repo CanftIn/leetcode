@@ -26,6 +26,7 @@ about list operator:
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [C++](./142_Linked_List_Cycle_II.cpp)|Medium|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/description/) | [C++](./143_Reorder_List.cpp)|Medium|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/) | [c++](./147_Insertion_Sort_List/147_Insertion_Sort_List.cpp),[Java](./147_Insertion_Sort_List/147_Insertion_Sort_List.java) |Medium|
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [c++](./160_Intersection_of_Two_Linked_Lists.cpp) |Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [c++](./206_Reverse_Linked_List.cpp) |Easy|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [c++](./237_Delete_Node_in_a_Linked_List.cpp) |Easy|
 
@@ -74,6 +75,7 @@ about list operator:
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/description/) | [C++](./143_Reorder_List.cpp)|Medium|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/) | [c++](./147_Insertion_Sort_List/147_Insertion_Sort_List.cpp),[Java](./147_Insertion_Sort_List/147_Insertion_Sort_List.java) |Medium|
 |155|[Min Stack](https://leetcode.com/problems) | [C++](./155_Min_Stack/155_Min_Stack/155_Min_Stack.cpp)|Easy|
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [c++](./160_Intersection_of_Two_Linked_Lists.cpp) |Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [c++](./206_Reverse_Linked_List.cpp) |Easy|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [c++](./237_Delete_Node_in_a_Linked_List.cpp) |Easy|
 |339|[Nested List Weight Sum](https://leetcode.com/problems) | [c++](./339_Nested_List_Weight_Sum.cpp) |Easy|
