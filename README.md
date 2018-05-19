@@ -32,6 +32,8 @@ about list operator:
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [c++](./237_Delete_Node_in_a_Linked_List.cpp) |Easy|
 
 ### Array
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](./1_Two_Sum)|Easy|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [C++](./11_Container_With_Most_Water.cpp)|Medium|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems) | [C++](./26_Remove_Duplicates_from_Sorted_Array.cpp)|Easy|
@@ -55,6 +57,8 @@ about list operator:
 
 
 ### Tree
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [C++](./94_Binary_Tree_Inorder_Traversal.cpp)|Medium|
 
 
