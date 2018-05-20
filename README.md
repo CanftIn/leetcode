@@ -42,6 +42,7 @@ about list operator:
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [C++](./33_Search_in_Rotated_Sorted_Array.cpp)|Medium|
 |34|[Search for a Range](https://leetcode.com/problems) | [C++](./34_Search_for_a_Range/34_Search_for_a_Range/34_Search_for_a_Range.cpp)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problem) | [C++](./35_Search_Insert_Position/35_Search_Insert_Position/35_Search_Insert_Position.cpp)|Easy|
+|136|[Single Number](https://leetcode.com/problems/single-number/description/) | [C++](./136_Single_Number.cpp)|Easy|
 
 
 ### String
@@ -111,6 +112,7 @@ about list operator:
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/) | [c++](./100_Same_Tree.cpp) |Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [c++](./101_Symmetric_Tree.cpp) |Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [c++](./104_Maximum_Depth_of_Binary_Tree.cpp) |Easy|
+|136|[Single Number](https://leetcode.com/problems/single-number/description/) | [C++](./136_Single_Number.cpp)|Easy|
 |141|[Linked List Cycle](https://leetcode.com/problems) | [C++](./141_Linked_List_Cycle/141_Linked_List_Cycle/141_Linked_List_Cycle.cpp)|Easy|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [C++](./142_Linked_List_Cycle_II.cpp)|Medium|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/description/) | [C++](./143_Reorder_List.cpp)|Medium|
