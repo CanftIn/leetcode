@@ -4,7 +4,7 @@
 
 These are some answers I did.
 
-Suggest you read code using [octotree](https://github.com/buunguyen/octotree)
+Suggest you to read code using [octotree](https://github.com/buunguyen/octotree)
 
 about list operator:
 [ListPrintHelper](./ListPrintHelper/ListPrintHelper/ListPrintHelper.cpp)
