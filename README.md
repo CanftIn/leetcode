@@ -77,6 +77,7 @@ about list operator:
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [c++](./104_Maximum_Depth_of_Binary_Tree.cpp) |Easy|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [C++](./144_Binary_Tree_Preorder_Traversal.cpp)|Medium|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [C++](./145_Binary_Tree_Postorder_Traversal.cpp)|Medium|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [c++](./226_Invert_Binary_Tree.cpp) |Easy|
 
 
 ### All
@@ -129,6 +130,7 @@ about list operator:
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [c++](./160_Intersection_of_Two_Linked_Lists.cpp) |Easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | [c++](./203_Remove_Linked_List_Elements.cpp) |Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [c++](./206_Reverse_Linked_List.cpp) |Easy|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [c++](./226_Invert_Binary_Tree.cpp) |Easy|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [c++](./237_Delete_Node_in_a_Linked_List.cpp) |Easy|
 |339|[Nested List Weight Sum](https://leetcode.com/problems) | [c++](./339_Nested_List_Weight_Sum.cpp) |Easy|
 |606|[Construct String from Binary Tree](https://leetcode.com/problems) | [C++](./606_Construct_String_from_Binary_Tree.cpp)|Easy|
