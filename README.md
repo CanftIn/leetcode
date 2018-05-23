@@ -75,6 +75,7 @@ about list operator:
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [C++](./102_Binary_Tree_Level_Order_Traversal.cpp)|Medium|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | [c++](./107_Binary_Tree_Level_Order_Traversal_II.cpp) |Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [c++](./104_Maximum_Depth_of_Binary_Tree.cpp) |Easy|
+|112|[Path Sum](https://leetcode.com/problems/path-sum/description/) | [c++](./112_Path_Sum.cpp) |Easy|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [C++](./144_Binary_Tree_Preorder_Traversal.cpp)|Medium|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [C++](./145_Binary_Tree_Postorder_Traversal.cpp)|Medium|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [c++](./226_Invert_Binary_Tree.cpp) |Easy|
@@ -120,6 +121,7 @@ about list operator:
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [C++](./102_Binary_Tree_Level_Order_Traversal.cpp)|Medium|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [c++](./104_Maximum_Depth_of_Binary_Tree.cpp) |Easy|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | [c++](./107_Binary_Tree_Level_Order_Traversal_II.cpp) |Easy|
+|112|[Path Sum](https://leetcode.com/problems/path-sum/description/) | [c++](./112_Path_Sum.cpp) |Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/description/) | [C++](./136_Single_Number.cpp)|Easy|
 |141|[Linked List Cycle](https://leetcode.com/problems) | [C++](./141_Linked_List_Cycle/141_Linked_List_Cycle/141_Linked_List_Cycle.cpp)|Easy|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [C++](./142_Linked_List_Cycle_II.cpp)|Medium|
