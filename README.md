@@ -72,6 +72,7 @@ about list operator:
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [C++](./96_Unique_Binary_Search_Trees.cpp)|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/) | [c++](./100_Same_Tree.cpp) |Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [c++](./101_Symmetric_Tree.cpp) |Easy|
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [C++](./102_Binary_Tree_Level_Order_Traversal.cpp)|Medium|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | [c++](./107_Binary_Tree_Level_Order_Traversal_II.cpp) |Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [c++](./104_Maximum_Depth_of_Binary_Tree.cpp) |Easy|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [C++](./144_Binary_Tree_Preorder_Traversal.cpp)|Medium|
@@ -114,6 +115,7 @@ about list operator:
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [C++](./96_Unique_Binary_Search_Trees.cpp)|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/) | [c++](./100_Same_Tree.cpp) |Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [c++](./101_Symmetric_Tree.cpp) |Easy|
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [C++](./102_Binary_Tree_Level_Order_Traversal.cpp)|Medium|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [c++](./104_Maximum_Depth_of_Binary_Tree.cpp) |Easy|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | [c++](./107_Binary_Tree_Level_Order_Traversal_II.cpp) |Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/description/) | [C++](./136_Single_Number.cpp)|Easy|
