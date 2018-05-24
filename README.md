@@ -42,6 +42,7 @@ about list operator:
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [C++](./33_Search_in_Rotated_Sorted_Array.cpp)|Medium|
 |34|[Search for a Range](https://leetcode.com/problems) | [C++](./34_Search_for_a_Range/34_Search_for_a_Range/34_Search_for_a_Range.cpp)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problem) | [C++](./35_Search_Insert_Position/35_Search_Insert_Position/35_Search_Insert_Position.cpp)|Easy|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [C++](./88_Merge_Sorted_Array.cpp)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/description/) | [C++](./136_Single_Number.cpp)|Easy|
 
 
@@ -82,7 +83,7 @@ about list operator:
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [c++](./226_Invert_Binary_Tree.cpp) |Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | [c++](./257_Binary_Tree_Paths.cpp) |Easy|
 
-116_Populating_Next_Right_Pointers_in_Each_Node
+
 ### All
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -114,6 +115,7 @@ about list operator:
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | [c++](./82_Remove_Duplicates_from_Sorted_List_II/82_Remove_Duplicates_from_Sorted_List_II.cpp),[Java](./82_Remove_Duplicates_from_Sorted_List_II/82_Remove_Duplicates_from_Sorted_List_II.java) |Easy|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [c++](./83_Remove_Duplicates_from_Sorted_List.cpp) |Easy|
 |86|[Partition List](https://leetcode.com/problems/partition-list/description/) | [C++](./86_Partition_List.cpp)|Medium|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [C++](./88_Merge_Sorted_Array.cpp)|Easy|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) | [C++](./92_Reverse_Linked_List_II.cpp)|Medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [C++](./94_Binary_Tree_Inorder_Traversal.cpp)|Medium|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [C++](./96_Unique_Binary_Search_Trees.cpp)|Medium|
