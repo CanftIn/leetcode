@@ -66,6 +66,12 @@ about list operator:
 |339|[Nested List Weight Sum](https://leetcode.com/problems) | [c++](./339_Nested_List_Weight_Sum.cpp) |Easy|
 
 
+### Math
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|50|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | [C++](./50_Pow.cpp)|Medium|
+
+
 ### Tree
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -108,6 +114,7 @@ about list operator:
 |35|[Search Insert Position](https://leetcode.com/problem) | [C++](./35_Search_Insert_Position/35_Search_Insert_Position/35_Search_Insert_Position.cpp)|Easy|
 |38|[Count and Say](https://leetcode.com/problem) | [C++](./38_Count_and_Say/38_Count_and_Say/38_Count_and_Say.cpp)|Easy|
 |48|[Rotate Image](https://leetcode.com/problems) | [C++](./48_Rotate_Image/48_Rotate_Image/48_Rotate_Image.cpp)|Medium|
+|50|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | [C++](./50_Pow.cpp)|Medium|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [C++](./58_Length_of_Last_Word.cpp)|Easy|
 |55|[Jump Game](https://leetcode.com/problems) | [C++](./55_Jump_Game/55_Jump_Game/55_Jump_Game.cpp)|Medium|
 |61|[Rotate List](https://leetcode.com/problems) | [C++](./61_Rotate_List/61_Rotate_List/61_Rotate_List.cpp)|Medium|
