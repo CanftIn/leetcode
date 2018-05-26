@@ -54,6 +54,7 @@ about list operator:
 |---| ----- | -------- | ---------- |
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) | [C++](./myAtoi.cpp)|Medium|
 |14|[Longest Common Prefix](https://leetcode.com/problems/two-sum/description/) | [C++](./14_Longest_Common_Prefix.cpp)|Easy|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [C++](./28_Implement_strStr.cpp)|Easy|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [C++](./58_Length_of_Last_Word.cpp)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [C++](./125_Valid_Palindrome.cpp)|Easy|
 
@@ -118,7 +119,7 @@ about list operator:
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems) | [C++](./25_Reverse_Nodes_in_k-Group/25_Reverse_Nodes_in_k-Group/25_Reverse_Nodes_in_k-Group.cpp)|Hard|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems) | [C++](./26_Remove_Duplicates_from_Sorted_Array.cpp)|Easy|
 |27|[Remove Element](https://leetcode.com/problems) | [C++](./27_Remove_Element.cpp)|Easy|
-|28|[!!!!!!not finish!!!!!!](https://leetcode.com/problems) | [C++](./28.cpp)|xxxx|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [C++](./28_Implement_strStr.cpp)|Easy|
 |31|[Next Permutation](https://leetcode.com/problems/add-two-numbers/description/) | [C++](./31_Next_Permutation.cpp)|Medium|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [C++](./33_Search_in_Rotated_Sorted_Array.cpp)|Medium|
 |34|[Search for a Range  ](https://leetcode.com/problems) | [C++](./34_Search_for_a_Range/34_Search_for_a_Range/34_Search_for_a_Range.cpp)|Medium|
