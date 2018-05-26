@@ -90,6 +90,12 @@ about list operator:
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | [c++](./257_Binary_Tree_Paths.cpp) |Easy|
 
 
+### Sort
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [C++](./75_Sort_Colors.cpp)|Medium|
+
+
 ### All
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -118,6 +124,7 @@ about list operator:
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [C++](./58_Length_of_Last_Word.cpp)|Easy|
 |55|[Jump Game](https://leetcode.com/problems) | [C++](./55_Jump_Game/55_Jump_Game/55_Jump_Game.cpp)|Medium|
 |61|[Rotate List](https://leetcode.com/problems) | [C++](./61_Rotate_List/61_Rotate_List/61_Rotate_List.cpp)|Medium|
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [C++](./75_Sort_Colors.cpp)|Medium|
 |80|[remove Duplicates from Sorted Array II](https://leetcode.com/problems) | [C++](./80_Remove_Duplicates_from_Sorted_Array_II/80_Remove_Duplicates_from_Sorted_Array_II/80_Remove_Duplicates_from_Sorted_Array_II.cpp)|Easy|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | [c++](./82_Remove_Duplicates_from_Sorted_List_II/82_Remove_Duplicates_from_Sorted_List_II.cpp),[Java](./82_Remove_Duplicates_from_Sorted_List_II/82_Remove_Duplicates_from_Sorted_List_II.java) |Easy|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [c++](./83_Remove_Duplicates_from_Sorted_List.cpp) |Easy|
