@@ -31,6 +31,7 @@ about list operator:
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [c++](./206_Reverse_Linked_List.cpp) |Easy|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [c++](./237_Delete_Node_in_a_Linked_List.cpp) |Easy|
 
+
 ### Array
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -52,6 +53,7 @@ about list operator:
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) | [C++](./myAtoi.cpp)|Medium|
 |14|[Longest Common Prefix](https://leetcode.com/problems/two-sum/description/) | [C++](./14_Longest_Common_Prefix.cpp)|Easy|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [C++](./58_Length_of_Last_Word.cpp)|Easy|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [C++](./125_Valid_Palindrome.cpp)|Easy|
 
 
 ### stack
@@ -142,6 +144,7 @@ about list operator:
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [c++](./111_Minimum_Depth_of_Binary_Tree.cpp) |Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/description/) | [c++](./112_Path_Sum.cpp) |Easy|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/) | [c++](./116_Populating_Next_Right_Pointers_in_Each_Node.cpp) |Medium|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [C++](./125_Valid_Palindrome.cpp)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/description/) | [C++](./136_Single_Number.cpp)|Easy|
 |141|[Linked List Cycle](https://leetcode.com/problems) | [C++](./141_Linked_List_Cycle/141_Linked_List_Cycle/141_Linked_List_Cycle.cpp)|Easy|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [C++](./142_Linked_List_Cycle_II.cpp)|Medium|
