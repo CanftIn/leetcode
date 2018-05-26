@@ -9,6 +9,8 @@ Suggest you to read code using [octotree](https://github.com/buunguyen/octotree)
 about list operator:
 [ListPrintHelper](./ListPrintHelper/ListPrintHelper/ListPrintHelper.cpp)
 
+**My LintCode answers:** [LintCode](./LintCode/LintCode.md) 
+
 ### Linked List
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
