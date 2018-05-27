@@ -17,6 +17,7 @@ about list operator:
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [C++](./2_Add_Two_Numbers.cpp)|Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [C++](./19_Remove_Nth_Node_From_End_of_List/19_Remove_Nth_Node_From_End_of_List.cpp),[Java](./19_Remove_Nth_Node_From_End_of_List/19_Remove_Nth_Node_From_End_of_List.java)|Medium|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [c++](./21_Merge_Two_Sorted_Lists.cpp) |Easy|
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [C++](./23_Merge_k_Sorted_Lists.cpp)|Hard|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems) | [C++](./24_Swap_Nodes_in_Pairs/24_Swap_Nodes_in_Pairs/24_Swap_Nodes_in_Pairs.cpp)|Medium|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems) | [C++](./25_Reverse_Nodes_in_k-Group/25_Reverse_Nodes_in_k-Group/25_Reverse_Nodes_in_k-Group.cpp)|Hard|
 |61|[Rotate List](https://leetcode.com/problems) | [C++](./61_Rotate_List/61_Rotate_List/61_Rotate_List.cpp)|Medium|
@@ -34,7 +35,7 @@ about list operator:
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [c++](./234_Palindrome_Linked_List.cpp) |Easy|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [c++](./237_Delete_Node_in_a_Linked_List.cpp) |Easy|
 
-234. 
+
 ### Array
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -116,6 +117,7 @@ about list operator:
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [C++](./19_Remove_Nth_Node_From_End_of_List/19_Remove_Nth_Node_From_End_of_List.cpp),[Java](./19_Remove_Nth_Node_From_End_of_List/19_Remove_Nth_Node_From_End_of_List.java)|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [c++](./20_Valid_Parentheses.cpp) |Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [c++](./21_Merge_Two_Sorted_Lists.cpp) |Easy|
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [C++](./23_Merge_k_Sorted_Lists.cpp)|Hard|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems) | [C++](./24_Swap_Nodes_in_Pairs/24_Swap_Nodes_in_Pairs/24_Swap_Nodes_in_Pairs.cpp)|Medium|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems) | [C++](./25_Reverse_Nodes_in_k-Group/25_Reverse_Nodes_in_k-Group/25_Reverse_Nodes_in_k-Group.cpp)|Hard|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems) | [C++](./26_Remove_Duplicates_from_Sorted_Array.cpp)|Easy|
