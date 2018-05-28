@@ -55,6 +55,7 @@ about list operator:
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) | [C++](./myAtoi.cpp)|Medium|
+|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) | [C++](./10_Regular_Expression_Matching.cpp)|Hard|
 |14|[Longest Common Prefix](https://leetcode.com/problems/two-sum/description/) | [C++](./14_Longest_Common_Prefix.cpp)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [C++](./28_Implement_strStr.cpp)|Easy|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [C++](./58_Length_of_Last_Word.cpp)|Easy|
@@ -111,6 +112,7 @@ about list operator:
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [C++](./2_Add_Two_Numbers.cpp)|Medium|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) | [C++](./myAtoi.cpp)|Medium|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [C++](./9_Palindrome_Number.cpp)|Easy|
+|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) | [C++](./10_Regular_Expression_Matching.cpp)|Hard|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [C++](./11_Container_With_Most_Water.cpp)|Medium|
 |13|[Roman to Integer](https://leetcode.com/problems) | [C++](./13_Roman_to_Integer/13_Roman_to_Integer/13_Roman_to_Integer.cpp)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/two-sum/description/) | [C++](./14_Longest_Common_Prefix.cpp)|Easy|
