@@ -90,6 +90,7 @@ about list operator:
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [C++](./102_Binary_Tree_Level_Order_Traversal.cpp)|Medium|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | [c++](./107_Binary_Tree_Level_Order_Traversal_II.cpp) |Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [c++](./104_Maximum_Depth_of_Binary_Tree.cpp) |Easy|
+|105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) | [C++](./105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.cpp)|Medium|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [c++](./111_Minimum_Depth_of_Binary_Tree.cpp) |Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/description/) | [c++](./112_Path_Sum.cpp) |Easy|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/) | [c++](./116_Populating_Next_Right_Pointers_in_Each_Node.cpp) |Easy|
@@ -148,6 +149,7 @@ about list operator:
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [c++](./101_Symmetric_Tree.cpp) |Easy|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [C++](./102_Binary_Tree_Level_Order_Traversal.cpp)|Medium|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [c++](./104_Maximum_Depth_of_Binary_Tree.cpp) |Easy|
+|105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) | [C++](./105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.cpp)|Medium|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | [c++](./107_Binary_Tree_Level_Order_Traversal_II.cpp) |Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [c++](./111_Minimum_Depth_of_Binary_Tree.cpp) |Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/description/) | [c++](./112_Path_Sum.cpp) |Easy|
