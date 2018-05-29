@@ -47,6 +47,7 @@ about list operator:
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [C++](./33_Search_in_Rotated_Sorted_Array.cpp)|Medium|
 |34|[Search for a Range](https://leetcode.com/problems) | [C++](./34_Search_for_a_Range/34_Search_for_a_Range/34_Search_for_a_Range.cpp)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problem) | [C++](./35_Search_Insert_Position/35_Search_Insert_Position/35_Search_Insert_Position.cpp)|Easy|
+|81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/) | [C++](./81_Search_in_Rotated_Sorted_Array_II.cpp)|Medium|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [C++](./88_Merge_Sorted_Array.cpp)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/description/) | [C++](./136_Single_Number.cpp)|Easy|
 
@@ -138,6 +139,7 @@ about list operator:
 |61|[Rotate List](https://leetcode.com/problems) | [C++](./61_Rotate_List/61_Rotate_List/61_Rotate_List.cpp)|Medium|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [C++](./75_Sort_Colors.cpp)|Medium|
 |80|[remove Duplicates from Sorted Array II](https://leetcode.com/problems) | [C++](./80_Remove_Duplicates_from_Sorted_Array_II/80_Remove_Duplicates_from_Sorted_Array_II/80_Remove_Duplicates_from_Sorted_Array_II.cpp)|Easy|
+|81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/) | [C++](./81_Search_in_Rotated_Sorted_Array_II.cpp)|Medium|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | [c++](./82_Remove_Duplicates_from_Sorted_List_II/82_Remove_Duplicates_from_Sorted_List_II.cpp),[Java](./82_Remove_Duplicates_from_Sorted_List_II/82_Remove_Duplicates_from_Sorted_List_II.java) |Easy|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [c++](./83_Remove_Duplicates_from_Sorted_List.cpp) |Easy|
 |86|[Partition List](https://leetcode.com/problems/partition-list/description/) | [C++](./86_Partition_List.cpp)|Medium|
