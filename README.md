@@ -29,6 +29,7 @@ about list operator:
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [C++](./142_Linked_List_Cycle_II.cpp)|Medium|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/description/) | [C++](./143_Reorder_List.cpp)|Medium|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/) | [c++](./147_Insertion_Sort_List/147_Insertion_Sort_List.cpp),[Java](./147_Insertion_Sort_List/147_Insertion_Sort_List.java) |Medium|
+|148|[Sort List](https://leetcode.com/problems/sort-list/description/) | [C++](./148_Sort_List.cpp)|Medium|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [c++](./160_Intersection_of_Two_Linked_Lists.cpp) |Easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | [c++](./203_Remove_Linked_List_Elements.cpp) |Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [c++](./206_Reverse_Linked_List.cpp) |Easy|
@@ -106,7 +107,10 @@ about list operator:
 ### Sort
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [c++](./21_Merge_Two_Sorted_Lists.cpp) |Easy|
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [C++](./23_Merge_k_Sorted_Lists.cpp)|Hard|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [C++](./75_Sort_Colors.cpp)|Medium|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [C++](./88_Merge_Sorted_Array.cpp)|Easy|
 
 
 ### All
@@ -167,6 +171,7 @@ about list operator:
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [C++](./144_Binary_Tree_Preorder_Traversal.cpp)|Medium|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [C++](./145_Binary_Tree_Postorder_Traversal.cpp)|Medium|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/) | [c++](./147_Insertion_Sort_List/147_Insertion_Sort_List.cpp),[Java](./147_Insertion_Sort_List/147_Insertion_Sort_List.java) |Medium|
+|148|[Sort List](https://leetcode.com/problems/sort-list/description/) | [C++](./148_Sort_List.cpp)|Medium|
 |155|[Min Stack](https://leetcode.com/problems) | [C++](./155_Min_Stack/155_Min_Stack/155_Min_Stack.cpp)|Easy|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [c++](./160_Intersection_of_Two_Linked_Lists.cpp) |Easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | [c++](./203_Remove_Linked_List_Elements.cpp) |Easy|
