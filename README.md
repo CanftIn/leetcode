@@ -55,6 +55,7 @@ about list operator:
 ### String
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [Java](./5_Longest_Palindromic_Substring/5_Longest_Palindromic_Substring.java)|Medium|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) | [C++](./myAtoi.cpp)|Medium|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) | [C++](./10_Regular_Expression_Matching.cpp)|Hard|
 |14|[Longest Common Prefix](https://leetcode.com/problems/two-sum/description/) | [C++](./14_Longest_Common_Prefix.cpp)|Easy|
@@ -112,6 +113,7 @@ about list operator:
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](./1_Two_Sum)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [C++](./2_Add_Two_Numbers.cpp)|Medium|
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [Java](./5_Longest_Palindromic_Substring/5_Longest_Palindromic_Substring.java)|Medium|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) | [C++](./myAtoi.cpp)|Medium|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [C++](./9_Palindrome_Number.cpp)|Easy|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) | [C++](./10_Regular_Expression_Matching.cpp)|Hard|
