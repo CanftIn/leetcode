@@ -62,6 +62,7 @@ about list operator:
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [C++](./28_Implement_strStr.cpp)|Easy|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [C++](./58_Length_of_Last_Word.cpp)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [C++](./125_Valid_Palindrome.cpp)|Easy|
+|647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) | [C++](./647_Palindromic_Substrings.cpp)|Medium|
 
 
 ### stack
@@ -176,4 +177,5 @@ about list operator:
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | [c++](./257_Binary_Tree_Paths.cpp) |Easy|
 |339|[Nested List Weight Sum](https://leetcode.com/problems) | [c++](./339_Nested_List_Weight_Sum.cpp) |Easy|
 |606|[Construct String from Binary Tree](https://leetcode.com/problems) | [C++](./606_Construct_String_from_Binary_Tree.cpp)|Easy|
+|647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) | [C++](./647_Palindromic_Substrings.cpp)|Medium|
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems) | [C++](./669_Trim_a_Binary_Search_Tree.cpp)|Easy|
