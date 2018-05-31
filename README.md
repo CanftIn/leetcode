@@ -71,6 +71,7 @@ about list operator:
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [c++](./20_Valid_Parentheses.cpp) |Easy|
+|32|[Longest Valid Parentheses](https://leetcode.com/problems/regular-expression-matching/description/) | [C++](./32_Longest_Valid_Parentheses.cpp)|Hard|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/description/) | [C++](./155_Min_Stack/155_Min_Stack/155_Min_Stack.cpp)|Easy|
 
 
@@ -139,6 +140,7 @@ about list operator:
 |27|[Remove Element](https://leetcode.com/problems/remove-element/description/) | [C++](./27_Remove_Element.cpp)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [C++](./28_Implement_strStr.cpp)|Easy|
 |31|[Next Permutation](https://leetcode.com/problems/add-two-numbers/description/) | [C++](./31_Next_Permutation.cpp)|Medium|
+|32|[Longest Valid Parentheses](https://leetcode.com/problems/regular-expression-matching/description/) | [C++](./32_Longest_Valid_Parentheses.cpp)|Hard|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [C++](./33_Search_in_Rotated_Sorted_Array.cpp)|Medium|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | [C++](./34_Search_for_a_Range/34_Search_for_a_Range/34_Search_for_a_Range.cpp)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [C++](./35_Search_Insert_Position/35_Search_Insert_Position/35_Search_Insert_Position.cpp)|Easy|
