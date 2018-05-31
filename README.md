@@ -91,6 +91,7 @@ about list operator:
 |---| ----- | -------- | ---------- |
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [C++](./94_Binary_Tree_Inorder_Traversal.cpp)|Medium|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [C++](./96_Unique_Binary_Search_Trees.cpp)|Medium|
+|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [C++](./98_Validate_Binary_Search_Tree.cpp)|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/) | [c++](./100_Same_Tree.cpp) |Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [c++](./101_Symmetric_Tree.cpp) |Easy|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [C++](./102_Binary_Tree_Level_Order_Traversal.cpp)|Medium|
@@ -157,6 +158,7 @@ about list operator:
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) | [C++](./92_Reverse_Linked_List_II.cpp)|Medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [C++](./94_Binary_Tree_Inorder_Traversal.cpp)|Medium|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [C++](./96_Unique_Binary_Search_Trees.cpp)|Medium|
+|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [C++](./98_Validate_Binary_Search_Tree.cpp)|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/) | [c++](./100_Same_Tree.cpp) |Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [c++](./101_Symmetric_Tree.cpp) |Easy|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [C++](./102_Binary_Tree_Level_Order_Traversal.cpp)|Medium|
