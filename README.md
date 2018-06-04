@@ -41,6 +41,7 @@ about list operator:
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](./1_Two_Sum)|Easy|
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | [Java](./4_Median_of_Two_Sorted_Arrays.java)|Hard|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [C++](./11_Container_With_Most_Water.cpp)|Medium|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./26_Remove_Duplicates_from_Sorted_Array.cpp)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/description/) | [C++](./27_Remove_Element.cpp)|Easy|
@@ -123,6 +124,7 @@ about list operator:
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](./1_Two_Sum)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [C++](./2_Add_Two_Numbers.cpp)|Medium|
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | [Java](./4_Median_of_Two_Sorted_Arrays.java)|Hard|
 |5|[Longest Palindromic Substring --- important](https://leetcode.com/problems/longest-palindromic-substring/description/) | [Java](./5_Longest_Palindromic_Substring/5_Longest_Palindromic_Substring.java)|Medium|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) | [C++](./myAtoi.cpp)|Medium|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [C++](./9_Palindrome_Number.cpp)|Easy|
