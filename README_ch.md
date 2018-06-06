@@ -41,6 +41,7 @@
 | # | 题目 | 答案 | 难度 |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](./1_Two_Sum)|Easy|
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | [Java](./4_Median_of_Two_Sorted_Arrays.java)|Hard|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [C++](./11_Container_With_Most_Water.cpp)|Medium|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./26_Remove_Duplicates_from_Sorted_Array.cpp)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/description/) | [C++](./27_Remove_Element.cpp)|Easy|
@@ -71,6 +72,7 @@
 | # | 题目 | 答案 | 难度 |
 |---| ----- | -------- | ---------- |
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [c++](./20_Valid_Parentheses.cpp) |Easy|
+|32|[Longest Valid Parentheses](https://leetcode.com/problems/regular-expression-matching/description/) | [C++](./32_Longest_Valid_Parentheses.cpp)|Hard|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/description/) | [C++](./155_Min_Stack/155_Min_Stack/155_Min_Stack.cpp)|Easy|
 
 
@@ -91,14 +93,17 @@
 |---| ----- | -------- | ---------- |
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [C++](./94_Binary_Tree_Inorder_Traversal.cpp)|Medium|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [C++](./96_Unique_Binary_Search_Trees.cpp)|Medium|
+|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [C++](./98_Validate_Binary_Search_Tree.cpp)|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/) | [c++](./100_Same_Tree.cpp) |Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [c++](./101_Symmetric_Tree.cpp) |Easy|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [C++](./102_Binary_Tree_Level_Order_Traversal.cpp)|Medium|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | [c++](./107_Binary_Tree_Level_Order_Traversal_II.cpp) |Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [c++](./104_Maximum_Depth_of_Binary_Tree.cpp) |Easy|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal  --- need to redo](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) | [C++](./105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.cpp)|Medium|
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | [c++](./110_Balanced_Binary_Tree.cpp) |Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [c++](./111_Minimum_Depth_of_Binary_Tree.cpp) |Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/description/) | [c++](./112_Path_Sum.cpp) |Easy|
+|114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/) | [C++](./114_Flatten_Binary_Tree_to_Linked_List.cpp)|Medium|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/) | [c++](./116_Populating_Next_Right_Pointers_in_Each_Node.cpp) |Easy|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [C++](./144_Binary_Tree_Preorder_Traversal.cpp)|Medium|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [C++](./145_Binary_Tree_Postorder_Traversal.cpp)|Medium|
@@ -121,6 +126,7 @@
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](./1_Two_Sum)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [C++](./2_Add_Two_Numbers.cpp)|Medium|
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | [Java](./4_Median_of_Two_Sorted_Arrays.java)|Hard|
 |5|[Longest Palindromic Substring --- important](https://leetcode.com/problems/longest-palindromic-substring/description/) | [Java](./5_Longest_Palindromic_Substring/5_Longest_Palindromic_Substring.java)|Medium|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) | [C++](./myAtoi.cpp)|Medium|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [C++](./9_Palindrome_Number.cpp)|Easy|
@@ -138,6 +144,7 @@
 |27|[Remove Element](https://leetcode.com/problems/remove-element/description/) | [C++](./27_Remove_Element.cpp)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [C++](./28_Implement_strStr.cpp)|Easy|
 |31|[Next Permutation](https://leetcode.com/problems/add-two-numbers/description/) | [C++](./31_Next_Permutation.cpp)|Medium|
+|32|[Longest Valid Parentheses](https://leetcode.com/problems/regular-expression-matching/description/) | [C++](./32_Longest_Valid_Parentheses.cpp)|Hard|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [C++](./33_Search_in_Rotated_Sorted_Array.cpp)|Medium|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | [C++](./34_Search_for_a_Range/34_Search_for_a_Range/34_Search_for_a_Range.cpp)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [C++](./35_Search_Insert_Position/35_Search_Insert_Position/35_Search_Insert_Position.cpp)|Easy|
@@ -157,14 +164,17 @@
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) | [C++](./92_Reverse_Linked_List_II.cpp)|Medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [C++](./94_Binary_Tree_Inorder_Traversal.cpp)|Medium|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [C++](./96_Unique_Binary_Search_Trees.cpp)|Medium|
+|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [C++](./98_Validate_Binary_Search_Tree.cpp)|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/) | [c++](./100_Same_Tree.cpp) |Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [c++](./101_Symmetric_Tree.cpp) |Easy|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [C++](./102_Binary_Tree_Level_Order_Traversal.cpp)|Medium|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [c++](./104_Maximum_Depth_of_Binary_Tree.cpp) |Easy|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) | [C++](./105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.cpp)|Medium|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | [c++](./107_Binary_Tree_Level_Order_Traversal_II.cpp) |Easy|
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | [c++](./110_Balanced_Binary_Tree.cpp) |Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [c++](./111_Minimum_Depth_of_Binary_Tree.cpp) |Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/description/) | [c++](./112_Path_Sum.cpp) |Easy|
+|114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/) | [C++](./114_Flatten_Binary_Tree_to_Linked_List.cpp)|Medium|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/) | [c++](./116_Populating_Next_Right_Pointers_in_Each_Node.cpp) |Medium|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [C++](./125_Valid_Palindrome.cpp)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/description/) | [C++](./136_Single_Number.cpp)|Easy|
