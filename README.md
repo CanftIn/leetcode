@@ -72,6 +72,7 @@ about list operator:
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [c++](./20_Valid_Parentheses.cpp) |Easy|
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [C++](./22_Generate_Parentheses.cpp)|Medium|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/regular-expression-matching/description/) | [C++](./32_Longest_Valid_Parentheses.cpp)|Hard|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/description/) | [C++](./155_Min_Stack/155_Min_Stack/155_Min_Stack.cpp)|Easy|
 
@@ -138,6 +139,7 @@ about list operator:
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [C++](./19_Remove_Nth_Node_From_End_of_List/19_Remove_Nth_Node_From_End_of_List.cpp),[Java](./19_Remove_Nth_Node_From_End_of_List/19_Remove_Nth_Node_From_End_of_List.java)|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [c++](./20_Valid_Parentheses.cpp) |Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [c++](./21_Merge_Two_Sorted_Lists.cpp) |Easy|
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [C++](./22_Generate_Parentheses.cpp)|Medium|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [C++](./23_Merge_k_Sorted_Lists.cpp)|Hard|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [C++](./24_Swap_Nodes_in_Pairs/24_Swap_Nodes_in_Pairs/24_Swap_Nodes_in_Pairs.cpp)|Medium|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [C++](./25_Reverse_Nodes_in_k-Group/25_Reverse_Nodes_in_k-Group/25_Reverse_Nodes_in_k-Group.cpp)|Hard|
