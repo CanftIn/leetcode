@@ -49,6 +49,7 @@ about list operator:
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [C++](./33_Search_in_Rotated_Sorted_Array.cpp)|Medium|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | [C++](./34_Search_for_a_Range/34_Search_for_a_Range/34_Search_for_a_Range.cpp)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [C++](./35_Search_Insert_Position/35_Search_Insert_Position/35_Search_Insert_Position.cpp)|Easy|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [C++](./53_Maximum_Subarray.cpp)|Easy|
 |80|[remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) | [C++](./80_Remove_Duplicates_from_Sorted_Array_II/80_Remove_Duplicates_from_Sorted_Array_II/80_Remove_Duplicates_from_Sorted_Array_II.cpp)|Easy|
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/) | [C++](./81_Search_in_Rotated_Sorted_Array_II.cpp)|Medium|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [C++](./88_Merge_Sorted_Array.cpp)|Easy|
@@ -154,6 +155,7 @@ about list operator:
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/description/) | [C++](./38_Count_and_Say/38_Count_and_Say/38_Count_and_Say.cpp)|Easy|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [C++](./48_Rotate_Image/48_Rotate_Image/48_Rotate_Image.cpp)|Medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | [C++](./50_Pow.cpp)|Medium|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [C++](./53_Maximum_Subarray.cpp)|Easy|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [C++](./58_Length_of_Last_Word.cpp)|Easy|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/description/) | [C++](./55_Jump_Game/55_Jump_Game/55_Jump_Game.cpp)|Medium|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/description/) | [C++](./61_Rotate_List/61_Rotate_List/61_Rotate_List.cpp)|Medium|

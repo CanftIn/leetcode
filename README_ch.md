@@ -49,6 +49,7 @@
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [C++](./33_Search_in_Rotated_Sorted_Array.cpp)|Medium|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | [C++](./34_Search_for_a_Range/34_Search_for_a_Range/34_Search_for_a_Range.cpp)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [C++](./35_Search_Insert_Position/35_Search_Insert_Position/35_Search_Insert_Position.cpp)|Easy|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [C++](./53_Maximum_Subarray.cpp)|Easy|
 |80|[remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) | [C++](./80_Remove_Duplicates_from_Sorted_Array_II/80_Remove_Duplicates_from_Sorted_Array_II/80_Remove_Duplicates_from_Sorted_Array_II.cpp)|Easy|
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/) | [C++](./81_Search_in_Rotated_Sorted_Array_II.cpp)|Medium|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [C++](./88_Merge_Sorted_Array.cpp)|Easy|
@@ -79,7 +80,7 @@
 ### 深搜 && 广搜
 | # | 题目 | 答案 | 难度 |
 |---| ----- | -------- | ---------- |
-|339|[Nested List Weight Sum](https://leetcode.com/problems) | [c++](./339_Nested_List_Weight_Sum.cpp) |Easy|
+|339|[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum) | [c++](./339_Nested_List_Weight_Sum.cpp) |Easy|
 
 
 ### 数学
@@ -138,6 +139,7 @@
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [C++](./19_Remove_Nth_Node_From_End_of_List/19_Remove_Nth_Node_From_End_of_List.cpp),[Java](./19_Remove_Nth_Node_From_End_of_List/19_Remove_Nth_Node_From_End_of_List.java)|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [c++](./20_Valid_Parentheses.cpp) |Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [c++](./21_Merge_Two_Sorted_Lists.cpp) |Easy|
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [C++](./22_Generate_Parentheses.cpp)|Medium|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [C++](./23_Merge_k_Sorted_Lists.cpp)|Hard|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [C++](./24_Swap_Nodes_in_Pairs/24_Swap_Nodes_in_Pairs/24_Swap_Nodes_in_Pairs.cpp)|Medium|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [C++](./25_Reverse_Nodes_in_k-Group/25_Reverse_Nodes_in_k-Group/25_Reverse_Nodes_in_k-Group.cpp)|Hard|
@@ -152,6 +154,7 @@
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/description/) | [C++](./38_Count_and_Say/38_Count_and_Say/38_Count_and_Say.cpp)|Easy|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [C++](./48_Rotate_Image/48_Rotate_Image/48_Rotate_Image.cpp)|Medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | [C++](./50_Pow.cpp)|Medium|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [C++](./53_Maximum_Subarray.cpp)|Easy|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [C++](./58_Length_of_Last_Word.cpp)|Easy|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/description/) | [C++](./55_Jump_Game/55_Jump_Game/55_Jump_Game.cpp)|Medium|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/description/) | [C++](./61_Rotate_List/61_Rotate_List/61_Rotate_List.cpp)|Medium|
