@@ -112,6 +112,7 @@
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [C++](./145_Binary_Tree_Postorder_Traversal.cpp)|Medium|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [c++](./226_Invert_Binary_Tree.cpp) |Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | [c++](./257_Binary_Tree_Paths.cpp) |Easy|
+|404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/) | [c++](./404_Sum_of_Left_Leaves.cpp) |Easy|
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) | [C++](./669_Trim_a_Binary_Search_Tree.cpp)|Easy|
 
 
@@ -201,6 +202,7 @@
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [c++](./237_Delete_Node_in_a_Linked_List.cpp) |Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | [c++](./257_Binary_Tree_Paths.cpp) |Easy|
 |339|[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum) | [c++](./339_Nested_List_Weight_Sum.cpp) |Easy|
+|404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/) | [c++](./404_Sum_of_Left_Leaves.cpp) |Easy|
 |606|[Construct String from Binary Tree](https://leetcode.com/problems) | [C++](./606_Construct_String_from_Binary_Tree.cpp)|Easy|
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) | [C++](./647_Palindromic_Substrings.cpp)|Medium|
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) | [C++](./669_Trim_a_Binary_Search_Tree.cpp)|Easy|
