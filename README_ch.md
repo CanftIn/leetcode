@@ -115,6 +115,7 @@
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | [c++](./235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.cpp) |Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | [c++](./257_Binary_Tree_Paths.cpp) |Easy|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/) | [c++](./404_Sum_of_Left_Leaves.cpp) |Easy|
+|617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | [C++](./617_Merge_Two_Binary_Trees.cpp)|Easy|
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) | [C++](./669_Trim_a_Binary_Search_Tree.cpp)|Easy|
 
 
@@ -208,5 +209,6 @@
 |339|[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum) | [c++](./339_Nested_List_Weight_Sum.cpp) |Easy|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/) | [c++](./404_Sum_of_Left_Leaves.cpp) |Easy|
 |606|[Construct String from Binary Tree](https://leetcode.com/problems) | [C++](./606_Construct_String_from_Binary_Tree.cpp)|Easy|
+|617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | [C++](./617_Merge_Two_Binary_Trees.cpp)|Easy|
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) | [C++](./647_Palindromic_Substrings.cpp)|Medium|
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) | [C++](./669_Trim_a_Binary_Search_Tree.cpp)|Easy|
