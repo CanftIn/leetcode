@@ -8,10 +8,10 @@ public:
         while (end != s.end()) {
             auto move = front;
             while (move != end) {
-            if (*move == *end) {
-                front = move + 1;
-            }
-            ++move;
+                if (*move == *end) {
+                    front = move + 1;
+                }
+                ++move;
             }
             int len = end - front + 1;
             if (len > max_len) max_len = len;
